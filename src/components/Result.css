@@ -3,7 +3,7 @@
     margin-right: 50px;
     text-align: center;
     position: relative;
-    top: 80px;
+    top: 70px;
     font-weight: bold;
 }
 
@@ -14,4 +14,5 @@
 
 .result em {
     font-weight: bold;
+    font-size: 25px;
 }
